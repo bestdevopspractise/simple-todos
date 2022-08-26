@@ -1,5 +1,5 @@
 # simple-todos
-Simple todo app is an application built for my DevOps Learning Group.
+Simple todo app is an application built for my DevOps Learning Group..
 
 # Installing the App..
 
