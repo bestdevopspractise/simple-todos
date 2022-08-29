@@ -1,7 +1,5 @@
 FROM node:alpine as builder
 
-#test
-
 #Working directory for the node app
 WORKDIR /usr/src/app
 
